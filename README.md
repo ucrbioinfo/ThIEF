@@ -1,3 +1,4 @@
+ThIEF: Finding Genome-wide Trajectories of Epigenetics Marks
 
 INSTALL:
 - you need to have python
